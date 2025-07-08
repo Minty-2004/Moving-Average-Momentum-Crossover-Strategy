@@ -80,7 +80,7 @@ This allows performance evaluation against a passive benchmark.
 
 ## Purpose
 
-This project was created as part of my preparation for **quant finance internship and graduate applications**, demonstrating:
+This project was created in the early steps of my journey into Financial Analysis with Python. It demonstrates:
 
 - Moving average-based strategy implementation
 - Financial data analysis with Python
@@ -88,17 +88,17 @@ This project was created as part of my preparation for **quant finance internshi
 
 ---
 
-## 👤 Author
+## Author
 
-**[Your Full Name]**  
-Mathematics with Management and Finance student  
+**Muhammad Muntasir Shahzad**  
+Student at King's College London, University of London. Studying Mathematics with Management and Finance   
 Graduating: Summer 2026  
-[LinkedIn Profile](<your-link>) | [Email](mailto:<your-email>)
+[LinkedIn Profile](www.linkedin.com/in/muntasir-shahzad) | [Email](muntasir.s.2004@gmail.com)
+
+Please don't hesitate to contact me if you have any questions, suggestions, or otherwise.
 
 ---
 
-## 📌 Disclaimer
+## Disclaimer
 
 This code is for educational purposes only and does not constitute financial advice or an investment recommendation.
-
-
